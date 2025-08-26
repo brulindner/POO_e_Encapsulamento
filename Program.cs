@@ -53,7 +53,7 @@ class Program
                     break;
             }
 
-            if (opcao != 0) ;
+            if (opcao != 0) 
             {
                 Console.WriteLine("\nPressione qualquer tecla para voltar ao menu");
                 Console.ReadKey();

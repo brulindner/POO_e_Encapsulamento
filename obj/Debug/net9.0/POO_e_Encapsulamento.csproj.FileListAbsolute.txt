@@ -1,0 +1,15 @@
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\bin\Debug\net9.0\POO_e_Encapsulamento.exe
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\bin\Debug\net9.0\POO_e_Encapsulamento.deps.json
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\bin\Debug\net9.0\POO_e_Encapsulamento.runtimeconfig.json
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\bin\Debug\net9.0\POO_e_Encapsulamento.dll
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\bin\Debug\net9.0\POO_e_Encapsulamento.pdb
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.AssemblyInfo.cs
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.sourcelink.json
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.dll
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\refint\POO_e_Encapsulamento.dll
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.pdb
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\POO_e_Encapsulamento.genruntimeconfig.cache
+C:\Users\Padrao\Documents\Estudos\C#\POO_e_Encapsulamento\obj\Debug\net9.0\ref\POO_e_Encapsulamento.dll
