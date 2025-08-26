@@ -143,4 +143,21 @@ class Program
         vendas.Add(venda);
         Console.WriteLine($"Venda concuida! Total: R$ {venda.CalcularTotal()}");
     }
+
+    static void ListarVendas()
+    {
+        Console.Clear();
+        Console.WriteLine("==== LISTA DE VENDAS ====");
+
+        if (vendas.Count == 0) ;
+        {
+            Console.WriteLine("Nenhuma venda realizada");
+            return;
+        }
+
+        foreach (var venda in vendas)
+        {
+            Console.WriteLine($"Cliente: {venda.Cliente.NomeProduto} - Total: R$ {venda.CalcularTotal()}");
+        }
+    }
 }
