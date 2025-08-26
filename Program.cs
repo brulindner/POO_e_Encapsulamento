@@ -108,8 +108,8 @@ class Program
         for (int i = 0; i < clientes.Count; i++)
             Console.WriteLine($"{i} - {clientes[i].Nome} ({clientes[i].Cpf}) {clientes[i].Telefone}");
 
-        int indiceCLiente;
-        if (!int.TryParse(Console.ReadLine(), out indiceCliente) || indiceCLiente < 0 || indiceCLiente >= clientes.Count)
+        int indiceCliente;
+        if (!int.TryParse(Console.ReadLine(), out indiceCliente) || indiceCliente < 0 || indiceCliente >= clientes.Count)
         {
             Console.WriteLine("Cliente Inválido");
             return;
@@ -149,15 +149,17 @@ class Program
         Console.Clear();
         Console.WriteLine("==== LISTA DE VENDAS ====");
 
-        if (vendas.Count == 0) ;
+        if (vendas.Count == 0)
         {
             Console.WriteLine("Nenhuma venda realizada");
-            return;
         }
-
-        foreach (var venda in vendas)
+        else
         {
-            Console.WriteLine($"Cliente: {venda.Cliente.NomeProduto} - Total: R$ {venda.CalcularTotal()}");
+
+            foreach (var venda in vendas)
+            {
+                Console.WriteLine($"Cliente: {venda.Cliente.Nome} - Total: R$ {venda.CalcularTotal()}");
+            }
         }
     }
 }

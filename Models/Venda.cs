@@ -28,4 +28,5 @@ namespace POO_e_Encapsulamento.Models
             return total;
         }
     }
+
 }
