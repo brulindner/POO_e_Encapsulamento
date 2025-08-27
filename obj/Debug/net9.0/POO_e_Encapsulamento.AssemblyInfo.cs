@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_e_Encapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bed46ec0550323c9884e81f3e8c4f6a821022a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1efa703ce07067b1ad62a719337a600e80b2e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_e_Encapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_e_Encapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -81,13 +81,12 @@ class Program
         Console.WriteLine("==== CADASTRO DE PRODUTO ====");
         Console.WriteLine("Nome do Produto: ");
         string nomeProduto = Console.ReadLine();
-        Console.WriteLine("Preço: ");
-        decimal preco = Convert.ToDecimal(Console.ReadLine());
 
-        while (!decimal.TryParse(Console.ReadLine(), out preco) || preco < 0)
+        decimal preco;
+        do
         {
-            Console.WriteLine("Preço inválido. Digite novamente: ");
-        }
+            Console.WriteLine("Preço: ");
+        } while (!decimal.TryParse(Console.ReadLine(), out preco) || preco < 0);
 
         produtos.Add(new Produto(nomeProduto, preco));
         Console.WriteLine("Produto cadastrado com sucesso!");
